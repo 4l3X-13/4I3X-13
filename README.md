@@ -44,8 +44,10 @@
 > building projects
 > experimenting with Linux
 > improving every day
+```
+
 <br>
 
 © 4I3X_Navarro
 
-</div> ```
+</div>
